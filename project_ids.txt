@@ -1,0 +1,5 @@
+C:\Users\John\Documents\Manhattan College Assignments\Aug-Dec 2016\EECE 321 Embedded Systems Design\Lab 1\BLE Lab 1\BLE Lab 1.cydsn\BLE Lab 1.cyprj|e05bedd6-5f0b-4242-af02-320db83c0947
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|13f35909-4df4-4ac0-af31-14a49d6b13cf
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b8624187-79c1-4ec2-9965-78d28c55233f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|522585a8-697a-4ff2-9199-34db8277d999
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|6a508db6-5430-4aa7-a3c4-8651cd23b3bc
